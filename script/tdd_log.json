@@ -226,9 +226,23 @@
     "testId": 11
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e28659d01570ca1d8231f95735dca0dd523dd20b",
     "commitName": "less than 1000 test pass",
     "commitTimestamp": 1779389209489,
     "testId": 11
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1779389263302,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor",
+    "commitTimestamp": 1779389277784,
+    "testId": 12
   }
 ]
