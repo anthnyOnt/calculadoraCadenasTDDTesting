@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "47ec0f87795a7876b439547690dbbd8fa04eac79",
     "author": "anthnyOnt",
     "commit": {
       "date": "2026-05-21T18:17:19.000Z",
       "message": "dash separator test failed",
-      "url": "https://github.com/anthnyOnt/calculadoraCadenasTDDTesting/commit/HEAD"
+      "url": "https://github.com/anthnyOnt/calculadoraCadenasTDDTesting/commit/47ec0f87795a7876b439547690dbbd8fa04eac79"
     },
     "stats": {
       "total": 4,
@@ -131,5 +131,24 @@
     "test_count": 5,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "anthnyOnt",
+    "commit": {
+      "date": "2026-05-21T18:21:45.000Z",
+      "message": "make dash separator test pass",
+      "url": "https://github.com/anthnyOnt/calculadoraCadenasTDDTesting/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 3,
+      "deletions": 1,
+      "date": "2026-05-21"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

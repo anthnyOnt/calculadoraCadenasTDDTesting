@@ -100,9 +100,47 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "47ec0f87795a7876b439547690dbbd8fa04eac79",
     "commitName": "dash separator test failed",
     "commitTimestamp": 1779387439292,
     "testId": 6
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1779387475328,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1779387493687,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779387530084,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779387684002,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "make dash separator test pass",
+    "commitTimestamp": 1779387705731,
+    "testId": 7
   }
 ]

@@ -13,5 +13,5 @@ test('suma múltiples números', () => {
 });
 
 test('permite usar guion como separador', () => {
-  expect(add("1-2,3")).toBe(6);
+  expect(calcularCadena("1-2,3")).toBe(6);
 });
