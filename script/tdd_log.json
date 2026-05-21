@@ -8,9 +8,23 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "601688444f0d410b395af8b0d17908f0fdb0cc37",
     "commitName": "make the test fail",
     "commitTimestamp": 1779385749431,
     "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779385767332,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "make the test pass",
+    "commitTimestamp": 1779385788367,
+    "testId": 1
   }
 ]

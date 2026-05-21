@@ -1,5 +1,5 @@
 function calcularCadena(cadena) {
-    return 1;
+    return Number(cadena);
 }
 
 export default calcularCadena;
