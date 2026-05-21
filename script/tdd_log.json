@@ -1,0 +1,16 @@
+[
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1779385723525,
+    "success": false,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "make the test fail",
+    "commitTimestamp": 1779385749431,
+    "testId": 0
+  }
+]
