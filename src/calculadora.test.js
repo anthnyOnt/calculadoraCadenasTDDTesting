@@ -19,3 +19,7 @@ test('permite usar guion como separador', () => {
 test('permite delimitador personalizado', () => {
   expect(calcularCadena("//[;] 6;7;4")).toBe(17);
 });
+
+test('ignora números mayores a 1000', () => {
+  expect(add("2,1001")).toBe(2);
+});
