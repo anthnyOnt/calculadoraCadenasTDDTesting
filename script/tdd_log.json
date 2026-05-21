@@ -138,9 +138,23 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f46710f608d1de14494e9277b9bededd969cfd44",
     "commitName": "make dash separator test pass",
     "commitTimestamp": 1779387705731,
     "testId": 7
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1779387760146,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "add custom separator test failed",
+    "commitTimestamp": 1779388109612,
+    "testId": 8
   }
 ]
