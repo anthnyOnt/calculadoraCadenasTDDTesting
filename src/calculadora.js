@@ -1,8 +1,7 @@
 function calcularCadena(cadena) {
-
-    const numeros = cadena.split(',');
-
-    return Number(numeros[0]) + Number(numeros[1]);
+  return cadena
+    .split(',')
+    .reduce((total, n) => total + Number(n), 0);
 }
 
 export default calcularCadena;
