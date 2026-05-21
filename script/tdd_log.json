@@ -152,9 +152,31 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "677208c584cd4ce643c1500ee12336e0188ee99c",
     "commitName": "add custom separator test failed",
     "commitTimestamp": 1779388109612,
     "testId": 8
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1779388655835,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1779388773753,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "make custom separator test pass",
+    "commitTimestamp": 1779388798005,
+    "testId": 9
   }
 ]
