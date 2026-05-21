@@ -64,9 +64,23 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "cc900c1440e6ec181fc11304d61f72e5edbbe5d2",
     "commitName": "refactor",
     "commitTimestamp": 1779386601839,
     "testId": 4
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779386805835,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "multiple numbers test succeeds",
+    "commitTimestamp": 1779386833443,
+    "testId": 5
   }
 ]
