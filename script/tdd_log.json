@@ -22,9 +22,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "224931e6d280615e2f95e035ba9582bc9174845a",
     "commitName": "make the test pass",
     "commitTimestamp": 1779385788367,
     "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1779385817372,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "numbers separated by comma test failed",
+    "commitTimestamp": 1779385863638,
+    "testId": 2
   }
 ]
