@@ -11,3 +11,7 @@ test('suma dos números separados por coma', () => {
 test('suma múltiples números', () => {
   expect(calcularCadena("1,2,4,8")).toBe(15);
 });
+
+test('permite usar guion como separador', () => {
+  expect(add("1-2,3")).toBe(6);
+});

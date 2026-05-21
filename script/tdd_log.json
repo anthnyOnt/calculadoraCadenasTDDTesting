@@ -78,9 +78,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7916d5c61b902bc8c3e5c0b3d92107e1d53ae64d",
     "commitName": "multiple numbers test succeeds",
     "commitTimestamp": 1779386833443,
     "testId": 5
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779386908074,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1779387375684,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "dash separator test failed",
+    "commitTimestamp": 1779387439292,
+    "testId": 6
   }
 ]
