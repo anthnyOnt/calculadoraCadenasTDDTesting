@@ -190,12 +190,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "efe0232dcb3ecaa12cbccddadd328474e57c604c",
     "author": "anthnyOnt",
     "commit": {
       "date": "2026-05-21T18:44:04.000Z",
       "message": "numbers less than 1000 test failed",
-      "url": "https://github.com/anthnyOnt/calculadoraCadenasTDDTesting/commit/HEAD"
+      "url": "https://github.com/anthnyOnt/calculadoraCadenasTDDTesting/commit/efe0232dcb3ecaa12cbccddadd328474e57c604c"
     },
     "stats": {
       "total": 4,
@@ -207,5 +207,24 @@
     "test_count": 7,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "anthnyOnt",
+    "commit": {
+      "date": "2026-05-21T18:46:49.000Z",
+      "message": "less than 1000 test pass",
+      "url": "https://github.com/anthnyOnt/calculadoraCadenasTDDTesting/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 4,
+      "deletions": 2,
+      "date": "2026-05-21"
+    },
+    "coverage": 100,
+    "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

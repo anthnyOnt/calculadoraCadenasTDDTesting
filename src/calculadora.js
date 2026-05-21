@@ -14,7 +14,9 @@ function calcularCadena(cadena) {
 
   return cadena
     .split(',')
-    .reduce((total, n) => total + Number(n), 0);
+    .map(Number)
+    .filter(n => n <= 1000)
+    .reduce((total, n) => total + n, 0);
 }
 
 
