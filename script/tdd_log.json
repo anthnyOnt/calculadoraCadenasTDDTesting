@@ -36,9 +36,31 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e91d9a32add214405b166bcd85e30101e97bc869",
     "commitName": "numbers separated by comma test failed",
     "commitTimestamp": 1779385863638,
     "testId": 2
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 2,
+    "numTotalTests": 3,
+    "timestamp": 1779385921339,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1779385944328,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "make more numbers test succeed",
+    "commitTimestamp": 1779386545606,
+    "testId": 3
   }
 ]

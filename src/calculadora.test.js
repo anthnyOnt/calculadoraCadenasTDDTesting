@@ -5,5 +5,5 @@ test('retorna el mismo número cuando recibe uno solo', () => {
 });
 
 test('suma dos números separados por coma', () => {
-  expect(add("1,2")).toBe(3);
+  expect(calcularCadena("1,2")).toBe(3);
 });
